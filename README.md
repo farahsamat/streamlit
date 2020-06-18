@@ -6,4 +6,6 @@ The original code is taken from [here](https://gist.githubusercontent.com/datapr
 To use the app, clone this repository: `git clone https:://github.com/farahsamat/streamlit.git` and run `streamlit run iris.py` on your terminal.
 ![menu](https://github.com/farahsamat/streamlit/blob/master/images/run_app.png)
 
-While your app is still running, you can share the network URL with anyone to try the web app.
+Or if you want to skip cloning, run `streamlit run https://raw.githubusercontent.com/farahsamat/streamlit/master/iris.py` on your terminal.
+
+Why use the app yourself when you can share it with your friends? Simply share the network URL with anyone to try the web app while it is still running.
